@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TrimityProj/static/css/main.f6307228.chunk.css",
+    "main.js": "/TrimityProj/static/js/main.9f210aa2.chunk.js",
+    "main.js.map": "/TrimityProj/static/js/main.9f210aa2.chunk.js.map",
+    "runtime-main.js": "/TrimityProj/static/js/runtime-main.dd7436db.js",
+    "runtime-main.js.map": "/TrimityProj/static/js/runtime-main.dd7436db.js.map",
+    "static/js/2.a20b5b1a.chunk.js": "/TrimityProj/static/js/2.a20b5b1a.chunk.js",
+    "static/js/2.a20b5b1a.chunk.js.map": "/TrimityProj/static/js/2.a20b5b1a.chunk.js.map",
+    "static/js/3.d7d02d28.chunk.js": "/TrimityProj/static/js/3.d7d02d28.chunk.js",
+    "static/js/3.d7d02d28.chunk.js.map": "/TrimityProj/static/js/3.d7d02d28.chunk.js.map",
+    "index.html": "/TrimityProj/index.html",
+    "static/css/main.f6307228.chunk.css.map": "/TrimityProj/static/css/main.f6307228.chunk.css.map",
+    "static/js/2.a20b5b1a.chunk.js.LICENSE.txt": "/TrimityProj/static/js/2.a20b5b1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd7436db.js",
+    "static/js/2.a20b5b1a.chunk.js",
+    "static/css/main.f6307228.chunk.css",
+    "static/js/main.9f210aa2.chunk.js"
+  ]
+}
